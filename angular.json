@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cursos-facilito"
+    }
+  },
+  "defaultProject": "cursos-facilito",
+  "cli": {
+    "analytics": "01a5e984-ebf2-4721-809b-5544287f5edf"
+  }
 }
